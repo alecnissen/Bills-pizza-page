@@ -1,0 +1,42 @@
+li { 
+    display: inline-flex; 
+    font-size: 18px; 
+} 
+
+
+.header-container { 
+background-color: rgb(240, 40, 100); 
+border: 10px solid rgb(95, 9, 9)
+} 
+
+.header-title {  
+display: flex; 
+justify-content: center;
+}
+
+.header-text { 
+    font-size: 66px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.contact-address-info-header { 
+   display: flex; 
+   flex-direction: column; 
+   justify-content: center; 
+   align-items: center;
+} 
+
+.description-of-place { 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 24px;
+    text-align: center; 
+    font-weight: bold;  
+}
+
+
+/* .address-contact-text { 
+   
+}  */
