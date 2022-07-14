@@ -1,4 +1,78 @@
-li { 
+header { 
+    background-color: rgb(228, 158, 29);
+    border: 10px solid rgb(250, 250, 79)
+}
+
+
+.home-about-us-menu-header-section-left-side { 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+    gap: 20px; 
+
+} 
+
+.header-text { 
+    text-align: center;
+}  
+
+
+/* .catering-take-out-beer-contact-us-section { 
+    display: flex; 
+    justify-content: flex-end; 
+    align-items: 
+    
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* li { 
     display: inline-flex; 
     font-size: 18px; 
 } 
@@ -39,4 +113,4 @@ justify-content: center;
 
 /* .address-contact-text { 
    
-}  */
+}  */ */
