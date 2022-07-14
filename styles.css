@@ -14,15 +14,16 @@ header {
 
 .header-text { 
     text-align: center;
-}  
+}   
 
-
-/* .catering-take-out-beer-contact-us-section { 
+.pic-container { 
     display: flex; 
-    justify-content: flex-end; 
-    align-items: 
-    
-} */
+    flex-direction: row;
+    gap: 15px; 
+    justify-content: flex-start;
+}
+
+
 
 
 
