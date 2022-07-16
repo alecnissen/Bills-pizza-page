@@ -22,12 +22,15 @@ header {
 
 .welcome-text { 
     color: yellow; 
-    font-family: 'Roboto';
+    font-family: 'Roboto'; 
+    text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
+    font-size: 96px; 
 } 
 
 .to-container { 
 display: flex; 
 justify-content: center; 
+text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
 } 
 
 .to-text { 
@@ -40,6 +43,7 @@ justify-content: center;
     text-align: center; 
     color: yellow; 
     font-family: 'Roboto', sans-serif;
+    text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
 }   
 
 .pic-container { 
@@ -59,7 +63,14 @@ justify-content: center;
 } 
 
 .about-us { 
-    text-align: center;
+    text-align: center; 
+    font-size: 76px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+.about-us-text { 
+
+    font-size: 40px;
 }
 .about-us-container { 
     /* display: flex; 
@@ -85,9 +96,21 @@ justify-content: center;
 .review-1-text { 
     display: flex; 
     flex-direction: column;
+} 
+
+.store-container { 
+    display: flex; 
+    justify-content: center;
+}
+
+.align-text-container { 
+    text-align: center;
 }
 
 
+.text-container { 
+    text-align: center;
+}
 
 
 
