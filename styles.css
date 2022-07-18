@@ -23,19 +23,20 @@ header {
 .welcome-text { 
     color: yellow; 
     font-family: 'Roboto'; 
-    text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
+    /* text-shadow: -21px -14px 2px rgba(28,110,164,0.77); */
     font-size: 96px; 
 } 
 
 .to-container { 
 display: flex; 
 justify-content: center; 
-text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
+/* text-shadow: -21px -14px 2px rgba(28,110,164,0.77); */
 } 
 
 .to-text { 
     color: yellow; 
-    font-family: 'Roboto';
+    font-family: 'Roboto'; 
+    font-size: 46px; 
 }
 
 
@@ -43,15 +44,22 @@ text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
     text-align: center; 
     color: yellow; 
     font-family: 'Roboto', sans-serif;
-    text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
+    /* text-shadow: -21px -14px 2px rgba(28,110,164,0.77); */
 }   
+
+.logo-container { 
+    display: flex; 
+    justify-content: center; 
+
+}
 
 .pic-container { 
     display: flex; 
     flex-direction: row;
     gap: 15px; 
     justify-content: flex-start; 
-}
+} 
+
 
 .address { 
     color: yellow; 
@@ -135,6 +143,7 @@ text-shadow: -21px -14px 2px rgba(28,110,164,0.77);
 
 
 
+/* For about-us section  */ 
 
 
 
