@@ -142,12 +142,11 @@ justify-content: center;
 
 
 
-
 /* For about-us section  */ 
 
-
-
-
+.about-us-page-header { 
+    font-size: 26px;
+}
 
 
 
